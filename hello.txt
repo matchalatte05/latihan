@@ -1,0 +1,4 @@
+indonesia 
+git remote add origin https://github.com/matchalatte05/latihan.git
+git branch -M main
+git push -u origin main
